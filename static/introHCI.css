@@ -1,4 +1,4 @@
-.project{
+.body{
     background-color: gray;
     margin-left: 10px;
 }
@@ -14,7 +14,9 @@ img .thumbnail{
     color: #cccccc;
 }
 
+/*
 .project{
     background-color: gray;
     margin-left: 10px;
 }
+*/
